@@ -1,4 +1,4 @@
-## Hi I'm Cool Shark Dev 👋
+## 👋 Hi, I'm Cool Shark Dev
 
 <!--
 **cool-shark-dev/cool-shark-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
