@@ -1,5 +1,12 @@
 ## 👋 Hi, I'm Cool Shark
 
+
+---
+
+### 📈 **GitHub Analytics**
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <!--
 **cool-shark-dev/cool-shark-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
